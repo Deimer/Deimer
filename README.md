@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Deymer Villa 👋
 
-<img width="712" height="719" alt="image" src="https://github.com/user-attachments/assets/71c272ce-b5c6-4681-a6ad-292e69e8d0a1" />
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/c50337de-2f4d-4294-81b2-79001d97e6f2" />
 
 **Ingeniero de Sistemas** egresado de la *Universidad de la Costa (CUC)* y **Senior / Specialist Android Developer**. Me apasiona el diseño y la arquitectura de software móvil nativo, la optimización de rendimiento y la creación de experiencias digitales robustas, escalables y orientadas al usuario.
 
