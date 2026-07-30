@@ -43,6 +43,12 @@ Cuento con un perfil versátil que combina un dominio profundo del desarrollo mo
 ![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
+### 🧪 Testing & Quality Assurance
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockk](https://img.shields.io/badge/Mockk-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Robolectric](https://img.shields.io/badge/Robolectric-000000?style=for-the-badge&logo=android&logoColor=white)
+
 ### 🔥 Firebase Suite
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![FCM](https://img.shields.io/badge/Cloud%20Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -61,6 +67,12 @@ Cuento con un perfil versátil que combina un dominio profundo del desarrollo mo
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### ☁️ CI/CD & DevOps Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
