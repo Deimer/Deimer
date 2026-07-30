@@ -43,6 +43,14 @@ Cuento con un perfil versátil que combina un dominio profundo del desarrollo mo
 ![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
+### 🔥 Firebase Suite
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/Cloud%20Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Remote Config](https://img.shields.io/badge/Remote%20Config-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ### 🌐 Cross-Platform
 ![KMP](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
